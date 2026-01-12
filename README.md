@@ -3,8 +3,6 @@
   <h3>Web Developer | React & TypeScript Enthusiast</h3>
 </div>
 
-<br />
-
 <div align="center">
 
 <h3 align="center">⚡ About Me</h3>
@@ -22,8 +20,6 @@
     </td>
   </tr>
 </table>
-
-<br />
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
