@@ -3,7 +3,7 @@
   <h3>Web Developer | React & TypeScript Enthusiast</h3>
 </div>
 
----
+<br />
 
 <div align="center">
 
